@@ -6,4 +6,4 @@
 
 ### 내 github 통계
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=abel9851)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=abel9851&show_icons=true&show=prs_merged,prs_merged_percentage&theme=radical)
